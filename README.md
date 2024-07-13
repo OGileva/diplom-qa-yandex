@@ -1,0 +1,1 @@
+# diplom-qa-yandex
